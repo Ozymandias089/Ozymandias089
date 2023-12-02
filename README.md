@@ -4,7 +4,6 @@
 
 <h2> 🛠 Tech Stack</h2>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=SwiftUI&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
@@ -22,16 +21,16 @@
 
 <h2> 🏅 Top Languages</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggalmury&layout=compact)](https://github.com/delay-100/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozymandias089&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 <br/>
 
 <h2> 📌 Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggalmury)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozymandias089)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**ggalmury/ggalmury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
