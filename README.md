@@ -3,6 +3,7 @@
 <br/>
 
 <h2> 🛠 Tech Stack</h2>
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Swift](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=SwiftUI&logoColor=white)
