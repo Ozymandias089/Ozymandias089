@@ -3,8 +3,7 @@
 <br/>
 
 <h2> 🛠 Tech Stack</h2>
-
-![Linux](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Linux&logoColor=white)
+![Linux]([https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Linux&logoColor=white](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black))
 ![Swift](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=SwiftUI&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
@@ -16,7 +15,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?&style=for-the-badge&logo=NPM&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
 
