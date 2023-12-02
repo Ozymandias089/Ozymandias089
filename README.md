@@ -3,7 +3,8 @@
 <br/>
 
 <h2> 🛠 Tech Stack</h2>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=SwiftUI&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
@@ -17,7 +18,6 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?&style=for-the-badge&logo=NPM&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
-
 <br/>
 
 <h2> 🏅 Top Languages</h2>
