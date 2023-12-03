@@ -25,7 +25,7 @@
 
 <h2>Graduation Project</h2>
 
-![Click-DeliverUs-Client](https://github.com/ClickDeliverUs/ClickDeliverUs-server2)
+[Click-DeliverUs-Client](https://github.com/ClickDeliverUs/ClickDeliverUs-server2)
 
 <br/>
 
