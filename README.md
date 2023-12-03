@@ -23,13 +23,16 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 <br/>
 
-<h2>Graduation Project</h2>
+<h2>Group Project</h2>
 
 [Click-DeliverUs-Client](https://github.com/ClickDeliverUs/ClickDeliverUs-server2)
+
+2023.3.8 ~ 2023.12.4
 
 <h2>Passion Project</h2>
 
 [To Do List - swiftUI](https://github.com/Ozymandias089/TodoListApp-SwiftUI)
+2023.11.29 ~ 2023.12.3
 <br/>
 
 <h2> 🏅 Top Languages</h2>
